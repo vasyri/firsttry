@@ -1,0 +1,22 @@
+.photo1 {
+  width: 200px;
+  height: auto;
+}
+body {
+  background-color: aquamarine;
+
+  
+}
+html {
+  height: 100%;
+  border: 15px solid #FF9D6E; 
+  border-style: solid;
+  
+  
+}
+#span1{
+  color: #F93822;
+  box-sizing: border-box;
+  height: 1000px;
+  margin: 50%;
+}
